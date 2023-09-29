@@ -1,0 +1,44 @@
+.navbar {
+  height: 80px;
+  background-image: -webkit-linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+  transition: background-color 0.1s ease-in-out;
+  z-index: 1;
+}
+.navbar.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.logo {
+  color: antiquewhite;
+  font-weight: 700;
+  font-size: 25px;
+  font-family: "Lucida Sans", "Lucida Sans Unicode";
+}
+.search {
+  margin-left: 1.4rem;
+  width: 25rem;
+}
+.navbar {
+  width: 100%;
+}
+.navlink {
+  gap: 1rem;
+  margin-left: 4rem;
+}
+
+.link1 {
+  font-size: 1.44rem;
+  margin-top: 5px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+.link2 {
+  font-size: 1.4rem;
+  margin-bottom: 5px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}

@@ -1,0 +1,43 @@
+.dpcontainer {
+  width: 100%;
+  margin-left: 0;
+}
+.abouthead {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  background-color: bisque;
+}
+.aboutcontent {
+  margin-top: 2rem;
+  margin-right: 2rem;
+}
+.icons {
+  display: block;
+  margin-left: 2rem;
+}
+.fa-square-whatsapp {
+  color: rgb(19, 232, 83);
+  font-size: 4rem;
+  margin-left: 2rem;
+}
+.fa-square-instagram {
+  color: rgb(230, 25, 90);
+  font-size: 4rem;
+  margin-left: 2rem;
+}
+.fa-square-facebook {
+  color: rgb(14, 196, 233);
+  font-size: 4rem;
+  margin-left: 2rem;
+}
+
+.aboutpara {
+  font-size: 20px;
+}
+.name {
+  color: darkturquoise;
+  margin-bottom: 2rem;
+  font-size: 30;
+}

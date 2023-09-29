@@ -1,0 +1,18 @@
+.catbg {
+  margin-left: 0;
+  padding: 0;
+  width: 100vw;
+}
+.row {
+  margin-top: 0.1rem;
+  width: 100vw;
+  background-color: azure;
+}
+
+.imground {
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+  background-color: white;
+  border: 2px solid rgb(red, green, blue);
+}

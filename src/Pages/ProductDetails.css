@@ -1,0 +1,45 @@
+.cards-details {
+  display: flex;
+  flex-direction: row;
+  height: 80vh;
+  width: 100vw;
+}
+.details-imgs1 {
+  width: 35rem;
+  padding: 2rem;
+  border: 1px solid aquamarine;
+  margin: 2rem;
+  height: 31rem;
+}
+.details-box {
+  /* width: 100%; */
+  margin-left: 1rem;
+}
+.details-name {
+  font-size: 1.8rem;
+}
+.details-price {
+  color: rgb(3, 151, 3);
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+.details-price-p {
+  color: rgb(193, 143, 6);
+  font-size: 1rem;
+  font-weight: 600;
+}
+.details-p {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.details-detail {
+  font-size: 1.4rem;
+}
+.buybtn {
+  width: 60%;
+  height: 10%;
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: rgb(239, 170, 42);
+}
